@@ -109,7 +109,7 @@
 
 
 	<build>
-		<finalName>spring-mvc-hibernate-example</finalName>
+		<finalName>spring-store</finalName>
 		<plugins>
 			<plugin>
 				<artifactId>maven-compiler-plugin</artifactId>
