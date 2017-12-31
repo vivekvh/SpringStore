@@ -128,5 +128,7 @@ public class LoginController {
 //		service.deleteStudentByCode(code);
 //		return "redirect:/list";
 //	}
-
+	public static void main(String[] args) {
+		
+	}
 }
